@@ -1,5 +1,5 @@
 # End-to-End Retail Sales Analytics and Customer Segmentation
-<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/1491b533-c839-4406-bd6f-ff4aaf402157" />
+<img width="1516" height="808" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/49f69434-696d-44d2-96a5-65e467d5754c" />
 
 
 
@@ -60,3 +60,4 @@ This project provides a comprehensive end-to-end analysis of an online retail da
     pip install -r requirements.txt
     ```
 3.  Run the Jupyter Notebooks in the `notebooks/` directory in sequential order (1, then 2, then 3).
+
